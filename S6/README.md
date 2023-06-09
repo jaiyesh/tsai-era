@@ -37,3 +37,11 @@
 ![image](https://github.com/jaiyesh/tsai-era/assets/64524945/7974ecf0-17f5-40b9-bba6-7ab309d06052)
 
 #### Observation: Loss going down faster as we are increasing learning rate.
+
+
+# Part 2:
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/bd03950c-542f-42e4-8d06-a7fe3320afb9)
+
+Reached accuracy of 99.42 in 20th epoch with total 18738 parameters
+
+
