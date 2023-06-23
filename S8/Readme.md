@@ -62,13 +62,31 @@ training curves:
 ![image](https://github.com/jaiyesh/tsai-era/assets/64524945/48a2d71a-33de-40f4-80f7-4d9681a886f9)
 
 misclassified images:
+
 ![image](https://github.com/jaiyesh/tsai-era/assets/64524945/b0b78483-e51b-43da-8af7-6405f2622614)
 
 
 ### Group Norm
 
-Few Samples of misclassified images,  
+training curves:
+
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/1b1e0c0b-e095-4972-98e7-bc756e2d6cb6)
+
+
+misclassified images:
+
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/582ad04b-27dc-4f2b-8e36-4387b37d12e3)
+
 
 ### Layer Norm
 
-Few Samples of misclassified images,  
+training curves:
+
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/a535f90a-cb5e-41f2-9a38-a6228749fbde)
+
+
+
+misclassified images:
+
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/092c3423-fe85-43a9-b80e-ef13aa8d6bfc)
+
