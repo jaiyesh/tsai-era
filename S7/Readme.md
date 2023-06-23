@@ -42,11 +42,13 @@
 
 ### Results
 - Number of Parameters: 6,038
-- Best Train Accuracy: 98.33%
-- Best Test Accuracy: 99.19%
+- Best Train Accuracy: 98.22%
+- Best Test Accuracy: 99.16%
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/10081ad9-dbe1-4174-bf80-f7843ba4350a)
+
 
 ### Analysis
-- Despite the inclusion of image augmentation techniques, the model with 6,038 parameters achieved a slightly improved accuracy of 99.19% in 15 epochs.
+- Despite the inclusion of image augmentation techniques, the model with 6,038 parameters achieved a slightly improved accuracy of 99.16% in 15 epochs.
 - The limited improvement could be due to the presence of dropout, which already serves a similar purpose.
 
 ## Solution, Step 3 [Notebook](./Assignment_7_step3.ipynb)
