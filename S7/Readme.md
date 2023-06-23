@@ -17,7 +17,7 @@
 9. When ready, attempt SESSION 7 -Assignment Solution  
 
 
-## Solution, Step 1 [Notebook](./ERA1_S7_step1.ipynb)
+## Solution, Step 1 [Notebook](./Assignment_7_step1.ipynb)
 
 ### Target   
 - Set up the necessary components, including the dataset, data loader, training/testing steps, and log plots.
@@ -35,7 +35,7 @@
 - The model with 6,038 parameters achieved an accuracy of 99.01% in 15 epochs.
 - The training and test accuracies are close, indicating that the model is not overfitting.
 
-## Solution, Step 2 [Notebook](./ERA1_S7_step2.ipynb)
+## Solution, Step 2 [Notebook](./Assignment_7_step2.ipynb)
 
 ### Target   
 - Incorporate image augmentation techniques such as random rotation and random affine to enhance the model's performance.
@@ -49,7 +49,7 @@
 - Despite the inclusion of image augmentation techniques, the model with 6,038 parameters achieved a slightly improved accuracy of 99.19% in 15 epochs.
 - The limited improvement could be due to the presence of dropout, which already serves a similar purpose.
 
-## Solution, Step 3 [Notebook](./ERA1_S7_step3.ipynb)
+## Solution, Step 3 [Notebook](./Assignment_7_step3.ipynb)
 
 ### Target   
 - Investigate the impact of incorporating the StepLR rate scheduler.
