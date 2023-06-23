@@ -65,6 +65,6 @@
 
 
 ### Analysis
-- By increasing the model capacity, optimizing the learning rate, and adding the StepLR rate scheduler, the model with 7,416 parameters achieved a cross-validated accuracy of 99.36% in 15 epochs.
+- By increasing the model capacity, optimizing the learning rate, and adding the StepLR rate scheduler, the model with 7,416 parameters achieved a cross-validated accuracy of 99.33% in 15 epochs.
 - This model satisfies all the requirements regarding model size, accuracy, and number of epochs.
 - Increasing the model capacity and incorporating the LR rate scheduler were crucial in achieving the desired accuracy within the specified timeframe.
