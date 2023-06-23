@@ -6,7 +6,7 @@
 - [src](#src)
 - [Notebook and Results](#notebook-and-results)
 - [Findings](#findings)
-- [Misclassified Images](#misclassified-images)
+- [Training curves and Misclassified Images](#training-images-and-misclassified-images)
 
 ## 🎯 Problem Statement
 Assignment is:  
@@ -53,12 +53,17 @@ Below is a table summarizing the performance of each model. It provides links to
 
 
 ## 📈 Findings
-Batch Normalization achieved the highest training and test accuracies. Layer Normalization also performed well, with slightly lower accuracies. Group Normalization, however, yielded the lowest accuracies among the three techniques.
+Batch Normalization >Layer>Group.
 
-## 📸 Misclassified Images
+## 📸 Training curves and Misclassified Images
 
 ### Batch Norm
-Few Samples of misclassified images,  
+training curves:
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/48a2d71a-33de-40f4-80f7-4d9681a886f9)
+
+misclassified images:
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/b0b78483-e51b-43da-8af7-6405f2622614)
+
 
 ### Group Norm
 
