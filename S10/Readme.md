@@ -52,4 +52,5 @@ Following are the model parameter, train and test accuracies achieved in trainin
 
 
 ### Ten misclassified images from the trained model.
-![Misclassied images]
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/d95615eb-116a-4795-ac86-02d73ebe3d61)
+
