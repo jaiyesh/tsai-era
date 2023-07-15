@@ -39,14 +39,17 @@ Following are the model parameter, train and test accuracies achieved in trainin
 
 
 ### Graph showing LR finder to determine the optimum learning rate to use in one cycle LR policy.
-![LR finder Graph]
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/98d8637c-d437-4c2d-8e8a-ba4288ca1e21)
+
 
 
 ### Graphs from training showing loss and accuracy for train and test datasets
-![Training Graphs]
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/8153764a-9725-4bf3-b9b7-249b931ac795)
+
 
 ### Graph showing one cycle learning-rate(LR) changes during training 
-![One Cycle LR]
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/7e812248-2365-4ff4-8bbe-c54c68ea4285)
+
 
 ### Ten misclassified images from the trained model.
 ![Misclassied images]
