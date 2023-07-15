@@ -29,7 +29,7 @@
     5. Use ADAM, and CrossEntropyLoss 
     6. Target Accuracy: 90% 
 
-## Solution - Notebook
+## Solution - Notebook https://github.com/jaiyesh/tsai-era/blob/main/S10/s10_assignment.ipynb
 In this we will use above given CNN architecture to achieve target test accuracy of more than 90% from the 19th epoch.
 
 Following are the model parameter, train and test accuracies achieved in training the model for 24 epochs.
