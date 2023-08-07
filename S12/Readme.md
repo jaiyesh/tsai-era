@@ -71,3 +71,6 @@ For this project, a Gradio interface has been set up to let users interact with 
 
 [Link](https://huggingface.co/spaces/jaiyeshchahar/Pytorch-Lighting)
 
+![image](https://github.com/jaiyesh/tsai-era/assets/64524945/0d7f6ad9-d9a7-465c-a385-90ade1b37647)
+
+
